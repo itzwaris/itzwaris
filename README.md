@@ -17,6 +17,3 @@ Languages: Rust, Go, C, C++, Python, Elixir, etc.
 Interest: Backend, Systems, Animation
 Discord: itzwaris
 ```
-<p align="center">
-  <img src="https://i.postimg.cc/900Z58yP/colour.jpg" width="90" alt="accent">
-</p>
