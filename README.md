@@ -8,6 +8,7 @@
 ```csharp
 itzwaris@github
 -------------------------
+Terminal: Foot
 IDE: Zed 
 Used OS: Arch Linux
 Age: 16
