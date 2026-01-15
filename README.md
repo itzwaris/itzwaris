@@ -14,6 +14,6 @@ Used OS: Arch Linux
 Age: 16
 Location: India
 Languages: Rust, Go, C, C++, Python, Elixir, etc.
-Interest: Backend, Systems, Animation
+Interest: Backend, Systems, Low-level stuff
 Discord: itzwaris
 ```
