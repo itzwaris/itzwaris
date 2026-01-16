@@ -8,9 +8,9 @@
 ```csharp
 itzwaris@github
 -------------------------
-Terminal: Foot
+Terminal: Hyper
 IDE: Zed 
-Used OS: Arch Linux
+Used OS: Windows 
 Age: 16
 Location: India
 Languages: Rust, C, C++, ASM, Go, Python, Elixir, etc.
