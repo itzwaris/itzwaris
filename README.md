@@ -13,7 +13,7 @@ IDE: Zed
 Used OS: Windows 
 Age: 16
 Location: India
-Languages: Rust, C, C++, ASM, Go, Python, Elixir, etc.
+Languages: Rust, C/C++, ASM, Go, Python, etc.
 Interest: Systems, Backend, Low-level stuff
 Discord: itzwaris
 ```
